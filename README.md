@@ -14,9 +14,13 @@
 ```
 
 ### Certificates & Achievements
-<div>
-  <img width="180" height="auto"  src="https://github.com/user-attachments/assets/d66df14c-92e1-42c1-ba24-949ed20ec5a9" />
-  <img width="180" height="auto" src="https://github.com/user-attachments/assets/7ebbf789-4063-48c7-b2eb-8988bcb366b3" />
+<div aling="center">
+  <img width="170" height="auto" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/7b6eaee5-8760-474d-87d6-e92b2bdcd55e" />
+  <img width="170" height="auto" alt="aws-certified-developer-associate" src="https://github.com/user-attachments/assets/baa94112-5307-4ae8-b93e-a9a81e6e3e24" />
+  <img width="170" height="auto" alt="professional-scrum-master-i-psm-i" src="https://github.com/user-attachments/assets/7d6a41bb-84bd-4f6c-9222-d31bb64a0dec" />
+  <img width="170" height="auto" alt="google-digital-marketing-e-commerce-professional-ce 2" src="https://github.com/user-attachments/assets/d8423604-fced-4143-b53b-7582536f4a06" />
+  <img width="170" height="auto" alt="google-project-management-professional-certificate- 2" src="https://github.com/user-attachments/assets/c768a0ec-912f-4a44-9ad9-ff43179341c5" />
+
 </div>
 
 <table>
