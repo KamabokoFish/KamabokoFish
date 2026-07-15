@@ -20,7 +20,7 @@
   <img width="170" height="auto" alt="professional-scrum-master-i-psm-i" src="https://github.com/user-attachments/assets/7d6a41bb-84bd-4f6c-9222-d31bb64a0dec" />
   <img width="170" height="auto" alt="google-digital-marketing-e-commerce-professional-ce 2" src="https://github.com/user-attachments/assets/d8423604-fced-4143-b53b-7582536f4a06" />
   <img width="170" height="auto" alt="google-project-management-professional-certificate- 2" src="https://github.com/user-attachments/assets/c768a0ec-912f-4a44-9ad9-ff43179341c5" />
-
+  <img width="1080" height="1080" alt="generative-ai-prompt-engineering" src="https://github.com/user-attachments/assets/f5c5082d-a968-4e29-8c6b-412d75be5ce0" />
 </div>
 
 <table>
