@@ -22,22 +22,22 @@
   <img width="150" height="auto" alt="google-project-management-professional-certificate- 2" src="https://github.com/user-attachments/assets/c768a0ec-912f-4a44-9ad9-ff43179341c5" />
   <img width="150" height="auto" alt="generative-ai-prompt-engineering" src="https://github.com/user-attachments/assets/f5c5082d-a968-4e29-8c6b-412d75be5ce0" />
 </div>
-
+<hr />
 <table>
   <tr>
     <td>
       <img width="300" height="auto" src="https://github.com/user-attachments/assets/92a5fa59-8c52-4db0-b293-9fe2ea5cae67" />
     </td>
     <td>
-      <img width="300" height="auto" alt="スクリーンショット 2026-07-10 0 39 58" src="https://github.com/user-attachments/assets/09f204a2-f295-450a-895d-386105ef9830" />
+      <img width="300" height="auto" src="https://github.com/user-attachments/assets/09f204a2-f295-450a-895d-386105ef9830" />
     </td>
     <td>
-      <img width="300" height="auto" alt="SCR-20260715-lmkz" src="https://github.com/user-attachments/assets/8c1073f6-6efd-4c79-b54c-c7df47f473a3" />
+      <img width="300" height="auto" src="https://github.com/user-attachments/assets/8c1073f6-6efd-4c79-b54c-c7df47f473a3" />
     </td>
   </tr>
   <tr>
     <td>
-       <img width="300 height="auto" alt="SCR-20260715-lmrw" src="https://github.com/user-attachments/assets/39d5ae65-bd77-4afc-b2b5-3ba9ce5cd48c" />
+       <img width="300" height="auto" src="https://github.com/user-attachments/assets/39d5ae65-bd77-4afc-b2b5-3ba9ce5cd48c" />
     </td>
   </tr>
 </table>
